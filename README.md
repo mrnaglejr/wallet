@@ -10,11 +10,11 @@ Create a Mnemonic that you can call the keys to test out crypto currency transac
 
 * Open the downloaded `bip39-standalone.html` in your favorite browser.
 
-* Either paste your own 12 word mnemonic phrase into the `BIP39 Mnemonic` textbox. Or press the `generate` button to have the system create a mnemonic phrase. ![generate mnemonic](BIP39_Mnemonic_Code.html)
+* Either paste your own 12 word mnemonic phrase into the `BIP39 Mnemonic` textbox. Or press the `generate` button to have the system create a mnemonic phrase. [generate mnemonic](BIP39_Mnemonic_Code.html)
 
 * Observe the `BIP39 Seed` area. This should contain a random string of numbers and letters. If so, success!
 
-![mnemonic conversion](Images/mnemonic-convert.png)
+[mnemonic conversion](Images/mnemonic-convert.png)
 
 ## HD-Wallet-Derive Install Guide
 
@@ -267,7 +267,11 @@ Once your python function is built, open the terminal on your computer and open 
 ## Send and confirm transactions
 
 In a web browser logon using [this testnet faucet](https://testnet-faucet.mempool.co/). Enter the answer to the addition problem that appears. Paste in one of the derived address into the address field and then enter the currency amount you want to send. ![testnet setup](Testnet_setup.png)
+
+
 Once you press send, you should receive a confirmation. ![txn confirm](txn_confirm.png)
+
+
 
 In a separate web browser longon to [block explorer](https://tbtc.bitaps.com/).  In the Search in blockchain field, paste in the same account you used to watch transactions on the account. You should receive the following confirmations:
 [confirm](confirm.png)
