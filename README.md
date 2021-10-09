@@ -10,11 +10,9 @@ Create a Mnemonic that you can call the keys to test out crypto currency transac
 
 * Open the downloaded `bip39-standalone.html` in your favorite browser.
 
-* Either paste your own 12 word mnemonic phrase into the `BIP39 Mnemonic` textbox. Or press the `generate` button to have the system create a mnemonic phrase. [generate mnemonic](BIP39_Mnemonic_Code.html)
+* Either paste your own 12 word mnemonic phrase into the `BIP39 Mnemonic` textbox. Or press the `generate` button to have the system create a mnemonic phrase. [generate mnemonic](BIP39_Mnemonic_Code.pdf)
 
 * Observe the `BIP39 Seed` area. This should contain a random string of numbers and letters. If so, success!
-
-[mnemonic conversion](Images/mnemonic-convert.png)
 
 ## HD-Wallet-Derive Install Guide
 
